@@ -1,6 +1,22 @@
 #include <stdio.h>
 
 int main() {
-    printf("Desafio Cartas Super Trunfo!\n");
-    printf("Novo Commit\n");
-}
+    char estado;
+    char codigodacarta[50];
+    char nomedacidade[50];
+    int populacao;
+    float areaemkm²;
+    float pib;
+    int numerodepontosturisticos;
+    
+
+
+
+
+
+
+
+
+
+
+    }
